@@ -2,7 +2,7 @@
 
 This is a c# .net core console application, which visualises the maze on console for each pony step. 
 
-###Solution
+### Solution
 Contains of two projects:
 - PonyApiClient (Class Library) - is a wrapper for http requests;
 - PonyChallenge (Console Application) - contains path finding logic and game loop.

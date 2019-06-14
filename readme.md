@@ -1,4 +1,4 @@
-###Technology
+### Technology
 
 This is a c# .net core console application, which visualises the maze on console for each pony step. 
 
